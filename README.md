@@ -8,3 +8,7 @@ Brainstorm Ideas
 2) An interactive game, perhaps versus an AI bot or simple CPU. Game could be about computer science and software engineering principles from cyber security to programming.
 3) 3D printed FGCU-themed chess with magnets and physical gears that respond to computer commands or voice commands with CPU opponent (this might be too wild of an idea to work on over 1 summer)
    - Perhaps code a robot arm instead to play against a person? ^^^
+
+
+Met 5/19/2026
+- We decided on idea 3 but with Checkers first, then Chess later.
